@@ -39,7 +39,7 @@ pkg install python clang ffmpeg mpv mpv-x libsdl2 libsdl2-ttf libsdl2-image deno
 
 > 說明：deno 用於提供 yt-dlp 執行 YouTube JavaScript 解密所需的執行環境。
 > 
-Step 2: 安裝 Python 依賴套件
+### Step 2: 安裝 Python 依賴套件
 # 升級基礎建置工具
 
 ```bash
