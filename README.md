@@ -59,6 +59,7 @@ export DISPLAY=:0
 export LIBGL_ALWAYS_SOFTWARE=1
 termux-x11 :0 &
 python main.py
+# 然後打開Termux X11
 ```
 
 ⌨️ 快捷鍵控制 (Keybindings)
