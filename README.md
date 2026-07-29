@@ -19,7 +19,7 @@
 * ⚡ **針對 Termux 優化**：自動搭配 `deno` JS 執行環境提升 `yt-dlp` 解析效率。
 
 ---
-# 請先安裝Termux和Termux:X11！！！
+# 請先安裝Termux和Termux:X11（建議從F-droid或Github下載）
 
 ## 📱 Termux 環境安裝指南
 
