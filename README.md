@@ -1,4 +1,4 @@
-# 全專案由Gemini生成
+# 全專案由Gemini生成，如有疑問或Bug可以先問Gemini
 
 # 📺 YouTube Termux Player
 
